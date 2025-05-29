@@ -1,4 +1,5 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+![My GIF](https://raw.githubusercontent.com/Muhammad-AsadAli/Muhammad-AsadAli/main/gif.gif)
+
 <h1 align="center">Hi 👋, I'm Muhammad Asad Ali</h1>
 <img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 <h3 align="center">Data Scientist | Python & ML Enthusiast | Turning Data into Insights </h3>
